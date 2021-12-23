@@ -11,3 +11,4 @@ I wrote this code to illustrate Spark (Python) basics for newcomers at Sberbank
 8) windows func
 9) UDF
 10) Broadcast filtering
+11) Работа с HDFS
